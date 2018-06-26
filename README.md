@@ -1,5 +1,13 @@
 # Memory Game Project
 
+A Classic Memory Game
+
+## How to play
+
+Clicking on a card will start the game, a timer wil start to count how many seconds you will take to discover each cards.
+Your goal is to match two cards of the same type at a time.
+Then try to match all pairs using minimum moves as possible.
+
 ## Table of Contents
 
 * [Instructions](#instructions)
