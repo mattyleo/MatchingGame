@@ -1,5 +1,3 @@
-# MatchingGame
-A matching Game for the udacity project
 # Memory Game Project
 
 ## Table of Contents
